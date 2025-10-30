@@ -169,5 +169,5 @@ print(response.json())
 
 ## 📄 License
 
-MIT License
+DichVuRight Studio
 
